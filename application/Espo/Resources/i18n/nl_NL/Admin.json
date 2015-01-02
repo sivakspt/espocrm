@@ -98,14 +98,14 @@
 		"previewSize": "Preview Afmeting"				
 	},
 	"messages": {
-		"upgradeVersion": "Uw EspoCRM wordt geupgrade naar versie <strong>{version}</strong>. Dit kan enige tijd duren.",
-		"upgradeDone": "Uw EspoCRM wordt geupgrade naar versie <strong>{version}</strong>. Herstart uw browser scherm.",
-		"upgradeBackup": "We adviseren om eerst een backup te maken van uw EspoCRM bestanden en data, alvorens te upgraden.",
+		"upgradeVersion": "Uw AppsZure wordt geupgrade naar versie <strong>{version}</strong>. Dit kan enige tijd duren.",
+		"upgradeDone": "Uw AppsZure wordt geupgrade naar versie <strong>{version}</strong>. Herstart uw browser scherm.",
+		"upgradeBackup": "We adviseren om eerst een backup te maken van uw AppsZure bestanden en data, alvorens te upgraden.",
 		"thousandSeparatorEqualsDecimalMark": "Het duizendtal scheidingsteken mag niet hetzelfde zijn als het decimaalteken.",
 		"userHasNoEmailAddress": "Gebruiker heeft geen emailadres.",
 		"selectEntityType": "Selecteer de eenheid soort in het linker menu.",
 		"selectUpgradePackage": "Selecteer het upgradebestand",
-		"downloadUpgradePackage": "Download benodigde upgrade bestanden <a href=\"https://sourceforge.net/projects/espocrm/files/Upgrades/\">hier</a>.",
+		"downloadUpgradePackage": "Download benodigde upgrade bestanden <a href=\"https://sourceforge.net/projects/AppsZure/files/Upgrades/\">hier</a>.",
 		"selectLayout": "Selecteer de layout in het linker menu en pas deze aan.",
 		"selectExtensionPackage": "Selecteer extensie bestand",
 		"extensionInstalled": "Extensie {name} {version} is geinstalleerd.",
@@ -115,7 +115,7 @@
 	"descriptions": {
 		"settings": "Systeem instellingen van het programma.",
 		"scheduledJob": "Opdrachten die uitgevoerd worden door cron.",
-		"upgrade": "Upgrade EspoCRM.",
+		"upgrade": "Upgrade AppsZure.",
 		"clearCache": "Verwijder backend cache.",
 		"rebuild": "Reconstrueer backend en schoon het geheugen.",
 		"users": "Gebruikers beheer.",

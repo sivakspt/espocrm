@@ -1543,7 +1543,7 @@ return array (
       'outboundEmailFromName' => 
       array (
         'type' => 'varchar',
-        'default' => 'EspoCRM',
+        'default' => 'AppsZure',
         'len' => 255,
       ),
       'outboundEmailFromAddress' => 

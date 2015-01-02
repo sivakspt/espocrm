@@ -1,11 +1,11 @@
 {
-  "name": "espocrm",
+  "name": "AppsZure",
   "version": "2.8.1",
   "description": "",
   "main": "index.php",
   "repository": {
     "type": "git",
-    "url": "git://github.com/espocrm/espocrm.git"
+    "url": "git://github.com/AppsZure/AppsZure.git"
   },
   "author": "",
   "license": "GPL",

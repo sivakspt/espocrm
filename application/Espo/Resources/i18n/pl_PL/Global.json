@@ -133,7 +133,7 @@
         "fieldShouldBeLess": "{field} powinno być mniejsze niż {value}",
         "fieldShouldBeGreater": "{field} powinno być większe niż {value}",
         "fieldBadPasswordConfirm": "{field} błędnie potwierdzony",
-        "assignmentEmailNotificationSubject": "EspoCRM {entityType}: {Entity.name}",
+        "assignmentEmailNotificationSubject": "AppsZure {entityType}: {Entity.name}",
         "assignmentEmailNotificationBody": "{assignerUserName} został przypisany  {entityType} '{Entity.name}' do Ciebie\n\n{recordUrl}",
         "confirmation": "Are you sure?",
         "removeRecordConfirmation": "Are you sure you want to remove the record?",

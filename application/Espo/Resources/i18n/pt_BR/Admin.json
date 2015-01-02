@@ -89,9 +89,9 @@
         "previewSize": "Tamanho do Preview"
     },
     "messages": {
-        "upgradeVersion": "Sua instalação do EspoCRM será atualizada para a versão <strong>{version}</strong>. Isto pode levar algum tempo.",
-        "upgradeDone": "Sua instalação do EspoCRM foi atualizada para a versão <strong>{version}</strong>. Atualize a janela do navegador.",
-        "upgradeBackup": "Nós recomendamos que você faça um backup dos arquivos e dados do EspoCRM antes de atualizar.",
+        "upgradeVersion": "Sua instalação do AppsZure será atualizada para a versão <strong>{version}</strong>. Isto pode levar algum tempo.",
+        "upgradeDone": "Sua instalação do AppsZure foi atualizada para a versão <strong>{version}</strong>. Atualize a janela do navegador.",
+        "upgradeBackup": "Nós recomendamos que você faça um backup dos arquivos e dados do AppsZure antes de atualizar.",
         "thousandSeparatorEqualsDecimalMark": "O separador de milhar não pode ser o mesmo do separador decimal",
         "userHasNoEmailAddress": "Usuário não possui endereço de e-mail.",
         "selectEntityType": "Escolha o tipo de entidade no menu a esquerda.",
@@ -101,7 +101,7 @@
     "descriptions": {
         "settings": "Configurações gerais do aplicativo.",
         "scheduledJob": "Tarefas agendadas que serão executadas pelo cron.",
-        "upgrade": "Atualizar o EspoCRM.",
+        "upgrade": "Atualizar o AppsZure.",
         "clearCache": "Limpar todo o cache do backend.",
         "rebuild": "Reconstruir o backend e limpar o cache.",
         "users": "Manutenção de usuários.",

@@ -1,6 +1,6 @@
 {
 	"labels": {
-		"Main page title": "Bem vindo ao EspoCRM",
+		"Main page title": "Bem vindo ao AppsZure",
 		"Main page header": "",
 		"Start page title": "Contrato de Licença",
 		"Step1 page title": "Contrato de Licença",
@@ -12,7 +12,7 @@
 		"Step5 page title": "Configurações SMTP para envio de e-mails",
 		"Errors page title": "Erros",
 		"Finish page title": "Instalação completa",
-		"Congratulation! Welcome to EspoCRM!": "Parabéns! O EspoCRM foi instalado com sucesso.",
+		"Congratulation! Welcome to AppsZure!": "Parabéns! O AppsZure foi instalado com sucesso.",
 		"Installation Guide": "Guia de Instalação",
 		"admin": "admin",
 		"localhost": "localhost",
@@ -23,7 +23,7 @@
 		"Start": "Início",
 		"Back": "Voltar",
 		"Next": "Avançar",
-		"Go to EspoCRM": "Ir para o EspoCRM",
+		"Go to AppsZure": "Ir para o AppsZure",
 		"Re-check": "Verificar novamente",
 		"Test settings": "Testar Conexão",
 		"Database Settings Description": "Enter your MySQL database connection information (hostname, username and password). You can specify the server port for hostname like localhost:3306."
@@ -62,7 +62,7 @@
 	"messages": {
 		"Bad init Permission": "Permission denied for \"{*}\" directory. Please set 775 for \"{*}\" or just execute this command in the terminal <pre><b>{C}</b></pre>\n\tOperation not permitted? Try this one: {CSU}",
 		"Some errors occurred!": "Some errors occurred!",
-		"phpVersion": "Your PHP version is not supported by EspoCRM, please update to PHP {minVersion} at least",
+		"phpVersion": "Your PHP version is not supported by AppsZure, please update to PHP {minVersion} at least",
 		"The PHP extension was not found...": "The <b>{extName}</b> PHP extension was not found...",
 		"All Settings correct": "All Settings are correct",
 		"Failed to connect to database": "Failed to connect to database",
@@ -103,10 +103,10 @@
 			}
 		},
 		"modRewriteHelp": {
-			"apache": "API Error: EspoCRM API unavailable.<br> Possible problems: disabled \"mod_rewrite\" in Apache server or .htaccess support.",
-			"nginx": "API Error: EspoCRM API unavailable.<br> Add this code to Nginx Host Config (inside \"server\" block):<br>\n<pre>\nlocation /api/v1/ {\n    if (!-e $request_filename){\n        rewrite ^/api/v1/(.*)$ /api/v1/index.php last; break;\n    }\n}\n\nlocation / {\n    rewrite reset/?$ reset.html break;\n}</pre>",
-			"microsoft-iis": "API Error: EspoCRM API unavailable.<br> Possible problem: disabled \"URL Rewrite\". Please check and enable \"URL Rewrite\" Module in IIS server",
-			"default": "API Error: EspoCRM API unavailable.<br> Possible problem: disabled Rewrite Module. Please check and enable Rewrite Module in your server (e.g. mod_rewrite in Apache) and .htaccess support."
+			"apache": "API Error: AppsZure API unavailable.<br> Possible problems: disabled \"mod_rewrite\" in Apache server or .htaccess support.",
+			"nginx": "API Error: AppsZure API unavailable.<br> Add this code to Nginx Host Config (inside \"server\" block):<br>\n<pre>\nlocation /api/v1/ {\n    if (!-e $request_filename){\n        rewrite ^/api/v1/(.*)$ /api/v1/index.php last; break;\n    }\n}\n\nlocation / {\n    rewrite reset/?$ reset.html break;\n}</pre>",
+			"microsoft-iis": "API Error: AppsZure API unavailable.<br> Possible problem: disabled \"URL Rewrite\". Please check and enable \"URL Rewrite\" Module in IIS server",
+			"default": "API Error: AppsZure API unavailable.<br> Possible problem: disabled Rewrite Module. Please check and enable Rewrite Module in your server (e.g. mod_rewrite in Apache) and .htaccess support."
 		}
 	}
 }

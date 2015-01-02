@@ -77,7 +77,7 @@
         },
         "outboundEmailFromName": {
             "type": "varchar",
-            "default": "EspoCRM",
+            "default": "AppsZure",
             "required": true
         },
         "outboundEmailFromAddress": {

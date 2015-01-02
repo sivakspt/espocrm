@@ -14,11 +14,11 @@ var version = (require('./package.json') || {}).version;
 
 var currentPath = path.dirname(fs.realpathSync(__filename));
 
-var buildRelPath = 'build/EspoCRM-' + version;
+var buildRelPath = 'build/AppsZure-' + version;
 var buildPath = currentPath + '/' + buildRelPath;
 var diffFilePath = currentPath + '/build/diff';
 
-var upgradePath = currentPath + '/build/EspoCRM-upgrade-' + acceptedVersionName + '-to-' + version;
+var upgradePath = currentPath + '/build/AppsZure-upgrade-' + acceptedVersionName + '-to-' + version;
 
 
 var exec = require('child_process').exec;
@@ -95,12 +95,12 @@ execute('git diff --name-only ' + versionFrom, function (stdout) {
             });
 
             var manifest = {
-                "name": "EspoCRM Upgrade "+acceptedVersionName+" to "+version,
+                "name": "AppsZure Upgrade "+acceptedVersionName+" to "+version,
                 "type": "upgrade",
                 "version": version,
                 "acceptableVersions": versionList,
                 "releaseDate": date,
-                "author": "EspoCRM",
+                "author": "AppsZure",
                 "description": "",
                 "delete": deletedFileList
             }

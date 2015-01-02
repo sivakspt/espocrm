@@ -42,7 +42,7 @@
         "ldapAccountCanonicalForm": "Formulaire du Compte Canonique",
         "ldapAccountDomainName": "Compte du Nom de Domaine",
         "ldapTryUsernameSplit": "Essayer le Nom d'utilisateur séparé",
-        "ldapCreateEspoUser": "Créer un Utilisateur dans EspoCRM",
+        "ldapCreateEspoUser": "Créer un Utilisateur dans AppsZure",
         "ldapSecurity": "Sécurité",
         "ldapUserLoginFilter": "Filtre de Connexion Utilisateur",
         "ldapAccountDomainNameShort": "Compte de Nom de Domaine Court",

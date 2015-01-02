@@ -148,7 +148,7 @@
         "fieldShouldBeGreater": "{field} должно быть больше чем {value}",
         "fieldBadPasswordConfirm": "{field} подтверждено неверно",
         "resetPreferencesDone": "Preferences has been reset to defaults",
-        "assignmentEmailNotificationSubject": "EspoCRM {entityType}: {Entity.name}",
+        "assignmentEmailNotificationSubject": "AppsZure {entityType}: {Entity.name}",
         "assignmentEmailNotificationBody": "{assignerUserName} назначил {entityType} '{Entity.name}' на вас\n\n{recordUrl}",
         "confirmation": "Вы уверены?",
         "resetPreferencesConfirmation": "Are you sure you want to reset preferences to defaults?",

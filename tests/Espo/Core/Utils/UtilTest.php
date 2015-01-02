@@ -123,7 +123,7 @@ class UtilTest extends \PHPUnit_Framework_TestCase
               array (
                 'driver' => 'pdo_mysql',
                 'host' => 'localhost',
-                'dbname' => 'espocrm',
+                'dbname' => 'AppsZure',
                 'user' => 'root',
                 'password' => '',
               ),
@@ -139,7 +139,7 @@ class UtilTest extends \PHPUnit_Framework_TestCase
               array (
                 'driver' => 'pdo_mysql',
                 'host' => 'localhost',
-                'dbname' => 'espocrm',
+                'dbname' => 'AppsZure',
                 'user' => 'root',
                 'password' => 'MyPass',
               ),

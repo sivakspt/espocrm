@@ -1,6 +1,6 @@
 {
 	"labels": {
-		"Main page title": "Bun venit pe EspoCRM",
+		"Main page title": "Bun venit pe AppsZure",
 		"Main page header": "",
 		"Start page title": "Acord de Licenta",
 		"Step1 page title": "Acord de Licenta",
@@ -12,7 +12,7 @@
 		"Step5 page title": "Setari SMTP pentru trimitere email-uri",
 		"Errors page title": "Erori",
 		"Finish page title": "Instalare finalizata",
-		"Congratulation! Welcome to EspoCRM": "Felicitari! EspoCRM a fost instalat cu succes.",
+		"Congratulation! Welcome to AppsZure": "Felicitari! AppsZure a fost instalat cu succes.",
 		"Installation Guide": "Instrucțiuni de instalare",
 		"admin": "admin",
 		"localhost": "localhost",
@@ -23,7 +23,7 @@
 		"Start": "Start",
 		"Back": "Inapoi",
 		"Next": "Inainte",
-		"Go to EspoCRM": "Mergi la EspoCRM",
+		"Go to AppsZure": "Mergi la AppsZure",
 		"Re-check": "Re-verificare",
 		"Version": "Versiunea",
 		"Test settings": "Testare Conexiune",
@@ -68,8 +68,8 @@
 	"messages": {
 		"Bad init Permission": "Permission denied for \"{*}\" directory. Please set 775 for \"{*}\" or just execute this command in the terminal <pre><b>{C}</b></pre>\n\tOperation not permitted? Try this one: {CSU}",
 		"Some errors occurred!": "Am intampinat erori!",
-		"phpVersion": "Your PHP version is not supported by EspoCRM, please update to PHP {minVersion} at least",
-		"MySQLVersion": "Your MySQL version is not supported by EspoCRM, please update to MySQL {minVersion} at least",
+		"phpVersion": "Your PHP version is not supported by AppsZure, please update to PHP {minVersion} at least",
+		"MySQLVersion": "Your MySQL version is not supported by AppsZure, please update to MySQL {minVersion} at least",
 		"The PHP extension was not found...": "PHP Error: Extension <b>{extName}</b> is not found.",
 		"All Settings correct": "Toate setarile sunt corecte",
 		"Failed to connect to database": "Nu s-a reusit conectarea la Baza de Date",
@@ -110,10 +110,10 @@
 			}
 		},
 		"modRewriteHelp": {
-			"apache": "Eroare API: API-ul EspoCRM nu este valabil.<br> Probleme posibile: RewriteBase necesar, este dezactivat \"mod_rewrite\" in server-ul Apache, sau in .htaccess.",
-			"nginx": "API Error: EspoCRM API unavailable.<br> Add this code to your Nginx Host Config (inside \"server\" block):<br>\n<pre>\n{0}\n</pre>",
-			"microsoft-iis": "Eroare API: API-ul EspoCRM nu este valabil.<br> Probleme posibile: este dezactivat \"URL Rewrite\". Verificati si activati modulul \"URL Rewrite\" in server-ul IIS",
-			"default": "API Error: EspoCRM API unavailable.<br> Possible problem: disabled Rewrite Module. Please check and enable Rewrite Module in your server (e.g. mod_rewrite in Apache) and .htaccess support."
+			"apache": "Eroare API: API-ul AppsZure nu este valabil.<br> Probleme posibile: RewriteBase necesar, este dezactivat \"mod_rewrite\" in server-ul Apache, sau in .htaccess.",
+			"nginx": "API Error: AppsZure API unavailable.<br> Add this code to your Nginx Host Config (inside \"server\" block):<br>\n<pre>\n{0}\n</pre>",
+			"microsoft-iis": "Eroare API: API-ul AppsZure nu este valabil.<br> Probleme posibile: este dezactivat \"URL Rewrite\". Verificati si activati modulul \"URL Rewrite\" in server-ul IIS",
+			"default": "API Error: AppsZure API unavailable.<br> Possible problem: disabled Rewrite Module. Please check and enable Rewrite Module in your server (e.g. mod_rewrite in Apache) and .htaccess support."
 		}
 	}
 }

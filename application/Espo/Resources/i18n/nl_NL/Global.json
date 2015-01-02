@@ -139,7 +139,7 @@
 		"fieldShouldBeLess": "{field} moet minder zijn dan {value}",
 		"fieldShouldBeGreater": "{field} moet groter zijn dan {value}",
 		"fieldBadPasswordConfirm": "{field} onjuist bevestigd",
-		"assignmentEmailNotificationSubject": "EspoCRM {entityType}: {Entity.name}",
+		"assignmentEmailNotificationSubject": "AppsZure {entityType}: {Entity.name}",
 		"assignmentEmailNotificationBody": "{assignerUserName} heeft {entityType} '{Entity.name}' toegewezen aan jou\n\n{recordUrl}",
 		"confirmation": "Zeker?",
 		"removeRecordConfirmation": "Record verwijderen?",

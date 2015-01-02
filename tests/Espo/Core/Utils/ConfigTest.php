@@ -52,7 +52,7 @@ class ConfigTest extends \PHPUnit_Framework_TestCase
         $result = array(
             'driver' => 'pdo_mysql',
             'host' => 'localhost',
-            'dbname' => 'espocrm',
+            'dbname' => 'AppsZure',
             'user' => 'root',
             'password' => '',
         );

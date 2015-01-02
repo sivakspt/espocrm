@@ -1,6 +1,6 @@
 {
 	"labels": {
-		"Main page title": "Witaj w EspoCRM",
+		"Main page title": "Witaj w AppsZure",
 		"Main page header": "",
 		"Start page title": "Postawnowienia Licencji",
 		"Step1 page title": "Postawnowienia Licencji",
@@ -12,7 +12,7 @@
 		"Step5 page title": "Ustawienia SMTP dla poczty wychodzącej",
 		"Errors page title": "Błędy",
 		"Finish page title": "Instalacja została ukończona",
-		"Congratulation! Welcome to EspoCRM": "Gratuluje! EspoCRM zostało pomyślnie zainstalowane.",
+		"Congratulation! Welcome to AppsZure": "Gratuluje! AppsZure zostało pomyślnie zainstalowane.",
 		"Installation Guide": "Instrukcja instalacji",
 		"admin": "admin",
 		"localhost": "localhost",
@@ -23,7 +23,7 @@
 		"Start": "Start",
 		"Back": "Wróć",
 		"Next": "Następny",
-		"Go to EspoCRM": "Idź do EspoCRM",
+		"Go to AppsZure": "Idź do AppsZure",
 		"Re-check": "Sprawdź jeszcze raz",
 		"Version": "Wersja",
 		"Test settings": "Test połączenia z bazą danych",
@@ -68,8 +68,8 @@
 	"messages": {
 		"Bad init Permission": "Permission denied for \"{*}\" directory. Please set 775 for \"{*}\" or just execute this command in the terminal <pre><b>{C}</b></pre>\n\tOperation not permitted? Try this one: {CSU}",
 		"Some errors occurred!": "Wystapiły błędy!",
-		"phpVersion": "Wersja PHP nie jest wspierana przez EspoCRM, proszę wykonać aktualizację do minimalnej wersji PHP {minVersion}",
-		"MySQLVersion": "Wersja MySQL nie jest wspierana przez EspoCRM, proszę wykonać aktualizację do minimalnej wersji MySQL {minVersion}",
+		"phpVersion": "Wersja PHP nie jest wspierana przez AppsZure, proszę wykonać aktualizację do minimalnej wersji PHP {minVersion}",
+		"MySQLVersion": "Wersja MySQL nie jest wspierana przez AppsZure, proszę wykonać aktualizację do minimalnej wersji MySQL {minVersion}",
 		"The PHP extension was not found...": "PHP Error: Extension <b>{extName}</b> is not found.",
 		"All Settings correct": "Wszystkie ustwienia są poprawne",
 		"Failed to connect to database": "Błąd połączenia z bazą danych",
@@ -111,9 +111,9 @@
 		},
 		"modRewriteHelp": {
 			"apache": "Błąd API: API jest nie dostępne.<br> Pradwdopodobnie: wymagane RewriteBase, wyłączyłeś \"mod_rewrite\" w serwerze Apache lub .htaccess.",
-			"nginx": "API Error: EspoCRM API unavailable.<br> Add this code to your Nginx Host Config (inside \"server\" block):<br>\n<pre>\n{0}\n</pre>",
+			"nginx": "API Error: AppsZure API unavailable.<br> Add this code to your Nginx Host Config (inside \"server\" block):<br>\n<pre>\n{0}\n</pre>",
 			"microsoft-iis": "Błąd API: API jest nie dostepne.<br> Pradopodobnie: wyłączyłeś \"URL Rewrite\". Proszę sprawdź i włącz \"URL Rewrite\" Moduł w IIS serwer",
-			"default": "API Error: EspoCRM API unavailable.<br> Possible problem: disabled Rewrite Module. Please check and enable Rewrite Module in your server (e.g. mod_rewrite in Apache) and .htaccess support."
+			"default": "API Error: AppsZure API unavailable.<br> Possible problem: disabled Rewrite Module. Please check and enable Rewrite Module in your server (e.g. mod_rewrite in Apache) and .htaccess support."
 		}
 	}
 }

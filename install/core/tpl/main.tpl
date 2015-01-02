@@ -5,7 +5,7 @@
 			<div class="col-md-12">
 				<div align="center">
 					<div class="content-img">
-						<img class="devices" src="img/devices.png" alt="EspoCRM">
+						<img class="devices" src="img/devices.png" alt="AppsZure">
 					</div>
 					{$langs['labels']['Main page header']}
 				</div>
@@ -26,7 +26,7 @@
 			</div>
 		</div>
 		<div class="cell cell-website pull-right" align="right">
-			<a target="_blank" href="http://blog.espocrm.com/administration/how-to-install-espocrm/" style="font-weight:bold;">{$langs['labels']['Installation Guide']}</a>
+			<a target="_blank" href="http://blog.AppsZure.com/administration/how-to-install-AppsZure/" style="font-weight:bold;">{$langs['labels']['Installation Guide']}</a>
 		</div>
 
 	</div>

@@ -33,8 +33,8 @@ return array(
 		),
 	),
 
-	'blog' => 'http://blog.espocrm.com',
-	'twitter' => 'https://twitter.com/espocrm',
-	'forum' => 'http://forum.espocrm.com',
+	'blog' => 'http://blog.AppsZure.com',
+	'twitter' => 'https://twitter.com/AppsZure',
+	'forum' => 'http://forum.AppsZure.com',
 
 );

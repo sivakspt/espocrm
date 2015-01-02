@@ -1,7 +1,7 @@
 {
 	"labels": {
-		"Main page title": "Welcome to EspoCRM",
-		"Main page header": "Project-Id-Version: Russian Translation\nPOT-Creation-Date: \nPO-Revision-Date: \nLast-Translator: \nLanguage-Team: EspoCRM <infobox@espocrm.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: ru_RU\nX-Generator: Poedit 1.6.5\n",
+		"Main page title": "Welcome to AppsZure",
+		"Main page header": "Project-Id-Version: Russian Translation\nPOT-Creation-Date: \nPO-Revision-Date: \nLast-Translator: \nLanguage-Team: AppsZure <infobox@AppsZure.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: ru_RU\nX-Generator: Poedit 1.6.5\n",
 		"Start page title": "License Agreement",
 		"Step1 page title": "License Agreement",
 		"License Agreement": "License Agreement",
@@ -12,9 +12,9 @@
 		"Step5 page title": "SMTP settings for outgoing emails",
 		"Errors page title": "Ошибки",
 		"Finish page title": "Installation is complete",
-		"Congratulation! Welcome to EspoCRM": "Congratulation! EspoCRM has been successfully installed.",
+		"Congratulation! Welcome to AppsZure": "Congratulation! AppsZure has been successfully installed.",
 		"More Information": "For more information, please visit our {BLOG}, follow us on {TWITTER}.<br><br>If you have any suggestions or questions, please ask on the {FORUM}.",
-		"share": "If you like EspoCRM, share it with your friends. Let them know about this great product.",
+		"share": "If you like AppsZure, share it with your friends. Let them know about this great product.",
 		"blog": "blog",
 		"twitter": "twitter",
 		"forum": "forum",
@@ -28,7 +28,7 @@
 		"Start": "Start",
 		"Back": "Back",
 		"Next": "Next",
-		"Go to EspoCRM": "Go to EspoCRM",
+		"Go to AppsZure": "Go to AppsZure",
 		"Re-check": "Re-check",
 		"Version": "Версия",
 		"Test settings": "Test Connection",
@@ -79,8 +79,8 @@
 	"messages": {
 		"Bad init Permission": "Permission denied for \"{*}\" directory. Please set 775 for \"{*}\" or just execute this command in the terminal <pre><b>{C}</b></pre>\n\tOperation not permitted? Try this one: {CSU}",
 		"Some errors occurred!": "Some errors occurred!",
-		"phpVersion": "Your PHP version is not supported by EspoCRM, please update to PHP {minVersion} at least",
-		"MySQLVersion": "Your MySQL version is not supported by EspoCRM, please update to MySQL {minVersion} at least",
+		"phpVersion": "Your PHP version is not supported by AppsZure, please update to PHP {minVersion} at least",
+		"MySQLVersion": "Your MySQL version is not supported by AppsZure, please update to MySQL {minVersion} at least",
 		"The PHP extension was not found...": "PHP Error: Extension <b>{extName}</b> is not found.",
 		"All Settings correct": "All Settings are correct",
 		"Failed to connect to database": "Failed to connect to database",
@@ -107,7 +107,7 @@
 		"1045": "Access denied for user",
 		"extension": "{0} расширение отсутствует",
 		"option": "Рекомендуемое значение {0}",
-		"mysqlSettingError": "EspoCRM requires the MySQL setting \"{NAME}\" to be set to {VALUE}"
+		"mysqlSettingError": "AppsZure requires the MySQL setting \"{NAME}\" to be set to {VALUE}"
 	},
 	"options": {
 		"db driver": {
@@ -120,14 +120,14 @@
 				"windows": "<br> <pre>1. Find the httpd.conf file (usually you will find it in a folder called conf, config or something along those lines)<br>\n2. Inside the httpd.conf file uncomment the line LoadModule rewrite_module modules/mod_rewrite.so (remove the pound '#' sign from in front of the line)<br>\n3. Also find the line ClearModuleList is uncommented then find and make sure that the line AddModule mod_rewrite.c is not commented out.\n</pre>"
 			},
 			"microsoft-iis": {
-				"windows": "Project-Id-Version: Russian Translation\nPOT-Creation-Date: \nPO-Revision-Date: \nLast-Translator: \nLanguage-Team: EspoCRM <infobox@espocrm.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: ru_RU\nX-Generator: Poedit 1.6.5\n"
+				"windows": "Project-Id-Version: Russian Translation\nPOT-Creation-Date: \nPO-Revision-Date: \nLast-Translator: \nLanguage-Team: AppsZure <infobox@AppsZure.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: ru_RU\nX-Generator: Poedit 1.6.5\n"
 			}
 		},
 		"modRewriteHelp": {
-			"apache": "API Error: EspoCRM API unavailable.<br> Possible problems: RewriteBase required, disabled \"mod_rewrite\" in Apache server or .htaccess support.",
-			"nginx": "API Error: EspoCRM API unavailable.<br> Add this code to your Nginx Host Config (inside \"server\" block):<br>\n<pre>\n{0}\n</pre>",
-			"microsoft-iis": "API Error: EspoCRM API unavailable.<br> Possible problem: disabled \"URL Rewrite\". Please check and enable \"URL Rewrite\" Module in IIS server",
-			"default": "API Error: EspoCRM API unavailable.<br> Possible problem: disabled Rewrite Module. Please check and enable Rewrite Module in your server (e.g. mod_rewrite in Apache) and .htaccess support."
+			"apache": "API Error: AppsZure API unavailable.<br> Possible problems: RewriteBase required, disabled \"mod_rewrite\" in Apache server or .htaccess support.",
+			"nginx": "API Error: AppsZure API unavailable.<br> Add this code to your Nginx Host Config (inside \"server\" block):<br>\n<pre>\n{0}\n</pre>",
+			"microsoft-iis": "API Error: AppsZure API unavailable.<br> Possible problem: disabled \"URL Rewrite\". Please check and enable \"URL Rewrite\" Module in IIS server",
+			"default": "API Error: AppsZure API unavailable.<br> Possible problem: disabled Rewrite Module. Please check and enable Rewrite Module in your server (e.g. mod_rewrite in Apache) and .htaccess support."
 		}
 	}
 }

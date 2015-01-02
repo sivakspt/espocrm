@@ -45,7 +45,7 @@
         "ldapAccountCanonicalForm": "Стандартная форма учетной записи",
         "ldapAccountDomainName": "Доменное имя учетной записи",
         "ldapTryUsernameSplit": "Попробовать имя пользователя Split",
-        "ldapCreateEspoUser": "Создать пользователя в EspoCRM",
+        "ldapCreateEspoUser": "Создать пользователя в AppsZure",
         "ldapSecurity": "Безопасность",
         "ldapUserLoginFilter": "Фильтер пользовательской авторизации",
         "ldapAccountDomainNameShort": "Краткая учетная запись домена",

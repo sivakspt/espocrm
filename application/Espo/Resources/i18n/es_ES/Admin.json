@@ -99,14 +99,14 @@
         "previewSize": "Tamaño de vista previa"                
     },
     "messages": {
-        "upgradeVersion": "Su EspoCRM será actualizado a la versión <strong>{version}</strong>. Tomará algún tiempo.",
-        "upgradeDone": "Su EspoCRM ha sido actualizado a la versión <strong>{version}</strong>. Refresque su ventana del navegador.",
-        "upgradeBackup": "Le recomendamos que haga copias de seguridad de sus archivos y datos EspoCRM antes de la actualización.",
+        "upgradeVersion": "Su AppsZure será actualizado a la versión <strong>{version}</strong>. Tomará algún tiempo.",
+        "upgradeDone": "Su AppsZure ha sido actualizado a la versión <strong>{version}</strong>. Refresque su ventana del navegador.",
+        "upgradeBackup": "Le recomendamos que haga copias de seguridad de sus archivos y datos AppsZure antes de la actualización.",
         "thousandSeparatorEqualsDecimalMark": "El separador de miles no puede ser el mismo que marca decimal",
         "userHasNoEmailAddress": "El usuario no tiene dirección de correo electrónico.",
         "selectEntityType": "Seleccione el tipo de entidad en el menú de la izquierda.",
         "selectUpgradePackage": "Seleccione Actualizar Paquete",
-        "downloadUpgradePackage": "La descarga necesita paquete(s) actualizados de <a href=\"https://sourceforge.net/projects/espocrm/files/Upgrades/\">acá</a>.",
+        "downloadUpgradePackage": "La descarga necesita paquete(s) actualizados de <a href=\"https://sourceforge.net/projects/AppsZure/files/Upgrades/\">acá</a>.",
         "selectLayout": "Seleccione el diseño necesario en el menú de la izquierda y editarlo.",
         "selectExtensionPackage": "Seleccionar extensión del paquete",
         "extensionInstalled": "La Extensión {name} {version} ha sido instalada",
@@ -116,7 +116,7 @@
     "descriptions": {
         "settings": "Configuración del sistema de aplicación.",
         "scheduledJob": "Trabajos que se ejecutan por cron.(cron Jobs)",
-        "upgrade": "Actualiza EspoCRM.",
+        "upgrade": "Actualiza AppsZure.",
         "clearCache": "Limpiar cache de Administración.",
         "rebuild": "Reconstruir y limpiar el cache de Administración.",
         "users": "Gestión de usuarios.",

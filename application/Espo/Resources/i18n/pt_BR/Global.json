@@ -137,7 +137,7 @@
         "fieldShouldBeLess": "{field} deve ser menos que {value}",
         "fieldShouldBeGreater": "{field} deve ser maior que {value}",
         "fieldBadPasswordConfirm": "{field} confirmado impropriamente",
-        "assignmentEmailNotificationSubject": "EspoCRM {entityType}: {Entity.name}",
+        "assignmentEmailNotificationSubject": "AppsZure {entityType}: {Entity.name}",
         "assignmentEmailNotificationBody": "{assignerUserName} designou {entityType} '{Entity.name}' para você\n\n{recordUrl}",
         "confirmation": "Você tem certeza?",
         "removeRecordConfirmation": "Você gostaria mesmo de remover este registro?",

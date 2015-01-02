@@ -100,14 +100,14 @@
         "previewSize": "Размер просмотра"
     },
     "messages": {
-        "upgradeVersion": "EspoCRM будет обновлен до версии <strong>{version}</strong>. Это может занять некоторое время.",
-        "upgradeDone": "EspoCRM был обновлен до версии <strong>{version}</strong>. Обновите окно браузера.",
-        "upgradeBackup": "Мы рекомендуем перед обновлением сделать резервную копию ваших EspoCRM файлов и данных.",
+        "upgradeVersion": "AppsZure будет обновлен до версии <strong>{version}</strong>. Это может занять некоторое время.",
+        "upgradeDone": "AppsZure был обновлен до версии <strong>{version}</strong>. Обновите окно браузера.",
+        "upgradeBackup": "Мы рекомендуем перед обновлением сделать резервную копию ваших AppsZure файлов и данных.",
         "thousandSeparatorEqualsDecimalMark": "Thousand separator can not be same as decimal mark",
         "userHasNoEmailAddress": "User has not email address.",
         "selectEntityType": "Выберите тип сущности в меню слева.",
         "selectUpgradePackage": "Выберите пакет обновления",
-        "downloadUpgradePackage": "Скачать необходимые обновления <a href=\"https://sourceforge.net/projects/espocrm/files/Upgrades/\"> </a>.",
+        "downloadUpgradePackage": "Скачать необходимые обновления <a href=\"https://sourceforge.net/projects/AppsZure/files/Upgrades/\"> </a>.",
         "selectLayout": "Select needed layout in the left menu and edit it.",
         "selectExtensionPackage": "Выберите пакет расширения",
         "extensionInstalled": "Расширение {name} {version} установлено.",
@@ -117,7 +117,7 @@
     "descriptions": {
         "settings": "Системные настройки.",
         "scheduledJob": "Задачи, которые выполняются с помощью cron.",
-        "upgrade": "Обновить EspoCRM.",
+        "upgrade": "Обновить AppsZure.",
         "clearCache": "Очистить весь кэш сервера.",
         "rebuild": "Восстановить сервер, и очистить кэш.",
         "users": "Управление пользователями.",

@@ -99,14 +99,14 @@
         "previewSize": "Preview Size"
     },
     "messages": {
-        "upgradeVersion": "Your EspoCRM will be upgraded to version <strong>{version}</strong>. This can take some time.",
-        "upgradeDone": "Your EspoCRM has been upgraded to version <strong>{version}</strong>. Refresh your browser window.",
-        "upgradeBackup": "We recommend you to make backup of your EspoCRM files and data before upgrade.",
+        "upgradeVersion": "Your AppsZure will be upgraded to version <strong>{version}</strong>. This can take some time.",
+        "upgradeDone": "Your AppsZure has been upgraded to version <strong>{version}</strong>. Refresh your browser window.",
+        "upgradeBackup": "We recommend you to make backup of your AppsZure files and data before upgrade.",
         "thousandSeparatorEqualsDecimalMark": "Thousand separator can not be same as decimal mark",
         "userHasNoEmailAddress": "User has not email address.",
         "selectEntityType": "Select entity type in the left menu.",
         "selectUpgradePackage": "Select upgrade package",
-        "downloadUpgradePackage": "Download needed upgrade package(s) <a href=\"https://sourceforge.net/projects/espocrm/files/Upgrades/\">here</a>.",
+        "downloadUpgradePackage": "Download needed upgrade package(s) <a href=\"https://sourceforge.net/projects/AppsZure/files/Upgrades/\">here</a>.",
         "selectLayout": "Select needed layout in the left menu and edit it.",
         "selectExtensionPackage": "Select extension package",
         "extensionInstalled": "Extension {name} {version} has been installed.",
@@ -116,7 +116,7 @@
     "descriptions": {
         "settings": "System settings of application.",
         "scheduledJob": "Jobs which are executed by cron.",
-        "upgrade": "Upgrade EspoCRM.",
+        "upgrade": "Upgrade AppsZure.",
         "clearCache": "Clear all backend cache.",
         "rebuild": "Rebuild backend and clear cache.",
         "users": "Users management.",

@@ -99,14 +99,14 @@
         "previewSize": "Vorschau Größe"
     },
     "messages": {
-        "upgradeVersion": "Ihr EspoCRM wird nun auf Version <strong>{version}</strong> aktualisiert. Dies kann einige Zeit dauern.",
-        "upgradeDone": "Ihr EspoCRM wurde auf Version <strong>{version}</strong> aktualisiert. Laden Sie Sie Ihr Browser Fenster neu.",
-        "upgradeBackup": "Wir empfehlen, vor der Aktualisierung von EspoCRM das Programmverzeichnis sowie die Datenbank zu sichern.",
+        "upgradeVersion": "Ihr AppsZure wird nun auf Version <strong>{version}</strong> aktualisiert. Dies kann einige Zeit dauern.",
+        "upgradeDone": "Ihr AppsZure wurde auf Version <strong>{version}</strong> aktualisiert. Laden Sie Sie Ihr Browser Fenster neu.",
+        "upgradeBackup": "Wir empfehlen, vor der Aktualisierung von AppsZure das Programmverzeichnis sowie die Datenbank zu sichern.",
         "thousandSeparatorEqualsDecimalMark": "Das Tausendertrennzeichen kann nicht gleich dem Dezimaltrennzeichen sein",
         "userHasNoEmailAddress": "Der Benutzer hat keine E-Mail Adresse.",
         "selectEntityType": "Modul links auswählen",
         "selectUpgradePackage": "Aktualisierungspaket auswählen",
-        "downloadUpgradePackage": "Benötigte Aktualisierungs Paket(e) <a href=\"https://sourceforge.net/projects/espocrm/files/Upgrades/\">hier</a> herunterladen.",
+        "downloadUpgradePackage": "Benötigte Aktualisierungs Paket(e) <a href=\"https://sourceforge.net/projects/AppsZure/files/Upgrades/\">hier</a> herunterladen.",
         "selectLayout": "Layout zum Editieren links auswählen",
         "selectExtensionPackage": "Erweiterungspaket auswählen",
         "extensionInstalled": "Erweiterung {name} {version} wurde installiert.",
@@ -116,7 +116,7 @@
     "descriptions": {
         "settings": "Systemeinstellungen der Applikation.",
         "scheduledJob": "Aufgaben die durch einen Cronjob ausgeführt werden.",
-        "upgrade": "EspoCRM aktualisieren.",
+        "upgrade": "AppsZure aktualisieren.",
         "clearCache": "Alle Cache Dateien leeren.",
         "rebuild": "Wiederherstellung des Backends und Leeren des Cache.",
         "users": "Benutzerverwaltung.",

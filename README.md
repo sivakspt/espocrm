@@ -1,14 +1,14 @@
-## EspoCRM
+## AppsZure
 
-<a href='http://www.espocrm.com'>EspoCRM is an Open Source CRM</a> (Customer Relationship Management) software that allows you to see, enter and evaluate all your company relationships regardless of the type. People, companies or opportunities - all in an easy and intuitive interface.
+<a href='http://www.AppsZure.com'>AppsZure is an Open Source CRM</a> (Customer Relationship Management) software that allows you to see, enter and evaluate all your company relationships regardless of the type. People, companies or opportunities - all in an easy and intuitive interface.
 
 It's a web application with a frontend designed as a single page application based on backbone.js and a RESTful backend written in PHP.
 
-Download the latest release from our [website](http://www.espocrm.com).
+Download the latest release from our [website](http://www.AppsZure.com).
 
 ### How to report bug
 
-Create an issue [here](https://github.com/espocrm/espocrm/issues) or post on our [forum](http://forum.espocrm.com/bug-reports?routestring=forum/bug-reports).
+Create an issue [here](https://github.com/AppsZure/AppsZure/issues) or post on our [forum](http://forum.AppsZure.com/bug-reports?routestring=forum/bug-reports).
 
 ### How to get started (for developers)
 
@@ -21,7 +21,7 @@ Never update composer dependencies if you are going to contribute code back.
 
 Now you can build.
 
-If your repository is accessible via a web server then you can run EspoCRM by url `http://PROJECT_URL/frontend`. To compose a proper config.php and populate database you can run install by opening `http(s)://{YOUR_CRM_URL}/install` location in a browser. Also you need to run build before to have compiled css.
+If your repository is accessible via a web server then you can run AppsZure by url `http://PROJECT_URL/frontend`. To compose a proper config.php and populate database you can run install by opening `http(s)://{YOUR_CRM_URL}/install` location in a browser. Also you need to run build before to have compiled css.
 
 ### How to build
 
@@ -35,5 +35,5 @@ The build will be created in the `build` directory.
 
 ### License
 
-EspoCRM is published under the GNU GPLv3 [license](https://raw.githubusercontent.com/espocrm/espocrm/master/LICENSE.txt).
+AppsZure is published under the GNU GPLv3 [license](https://raw.githubusercontent.com/AppsZure/AppsZure/master/LICENSE.txt).
 

@@ -1,4 +1,4 @@
-// node lang.js espocrm-nl_NL.po lastRelease nl_NL
+// node lang.js AppsZure-nl_NL.po lastRelease nl_NL
 
 if (process.argv.length < 2) {
     throw new Error('No dir argument passed');
@@ -14,7 +14,7 @@ var espoPath = path.dirname(fs.realpathSync(__filename)) + '';
 
 var resLang = process.argv[2] || 'lang_LANG';
 
-var poPath = process.argv[3] || espoPath + '/build/' + 'espocrm-' + resLang +'.po';
+var poPath = process.argv[3] || espoPath + '/build/' + 'AppsZure-' + resLang +'.po';
 
 
 var deleteFolderRecursive = function (path) {

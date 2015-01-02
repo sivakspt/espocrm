@@ -45,7 +45,7 @@
         "ldapAccountCanonicalForm": "Account Canonical Form",
         "ldapAccountDomainName": "Nazwa konta domeny",
         "ldapTryUsernameSplit": "Spróbuj rodzielić nazwę użytkonika",
-        "ldapCreateEspoUser": "Utwórz uzytkonika w EspoCRM",
+        "ldapCreateEspoUser": "Utwórz uzytkonika w AppsZure",
         "ldapSecurity": "Zabezpieczenia",
         "ldapUserLoginFilter": "Filtr użytkoników ",
         "ldapAccountDomainNameShort": "Krótka nazwa konta domeny",

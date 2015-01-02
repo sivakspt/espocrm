@@ -82,9 +82,9 @@
         "previewSize": "Önizlme Boyutu"                
     },
     "messages": {
-        "upgradeVersion": "EspoCRM yazılımınız <strong>{version}</strong> sürümüne yükseltilecektir. Bu işlem birkaç dakika sürebilir.",
-        "upgradeDone": "EspoCRM yazılımınız <strong>{version}</strong> sürümüne yükseltilmiştir. Tarayıcı pencerenizi lütfen yenileyin..",
-        "upgradeBackup": "Yükseltmeden önce EspoCRM dosya ve verilerinizi yedeklemenizi öneririz.",
+        "upgradeVersion": "AppsZure yazılımınız <strong>{version}</strong> sürümüne yükseltilecektir. Bu işlem birkaç dakika sürebilir.",
+        "upgradeDone": "AppsZure yazılımınız <strong>{version}</strong> sürümüne yükseltilmiştir. Tarayıcı pencerenizi lütfen yenileyin..",
+        "upgradeBackup": "Yükseltmeden önce AppsZure dosya ve verilerinizi yedeklemenizi öneririz.",
         "thousandSeparatorEqualsDecimalMark": "Binlik ayraç ondalık ayraç ile aynı olamaz.",
         "userHasNoEmailAddress": "Kullanıcı eposta adresi tanımlamamıştır.",
         "selectEntityType": "Soldaki menüden birim türünü seçin.",
@@ -94,7 +94,7 @@
     "descriptions": {
         "settings": "Uygulamanın sistem ayarları.",
         "scheduledJob": "Cron tarafından gerçekleştirilmiş işler.",
-        "upgrade": "EspoCRM i yükselt.",
+        "upgrade": "AppsZure i yükselt.",
         "clearCache": "Tüm sunucu önbelleğini temizle.",
         "rebuild": "Sunucuyu onar ve önbelleği temizle.",
         "users": "Kullanıcı Yönetimi.",

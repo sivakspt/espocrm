@@ -85,7 +85,7 @@
         "previewSize": "Podgląd Rozmiaru"                
     },
     "messages": {
-        "upgradeVersion": "Twój EspoCRM jest aktualizowany do wersji <strong>{version}</strong>. To może zająć trochę czasu.",
+        "upgradeVersion": "Twój AppsZure jest aktualizowany do wersji <strong>{version}</strong>. To może zająć trochę czasu.",
         "upgradeDone": "Twój CRM został zaaktualizowany do najnowszej wersji <strong>{version}</strong>. Odśwież swoją przeglądarke aby zobaczyć zmiany.",
         "upgradeBackup": "Zalecamy abyś wykonał archiwizacje swoich danych, przed aktualizacją.",
         "thousandSeparatorEqualsDecimalMark": "Separator dziesiętny nie może być taki sam jak znak oddzielenia",
@@ -97,7 +97,7 @@
     "descriptions": {
         "settings": "Ustawienia systemu dla aplikacji.",
         "scheduledJob": "Zadania wykonywane przez skrypt cron.",
-        "upgrade": "Aktualizuj EspoCRM.",
+        "upgrade": "Aktualizuj AppsZure.",
         "clearCache": "Wyczyść wszystkie dane zapisane w pamięci podręcznej.",
         "rebuild": "Przebuduj oraz wyczyść pamięć podręczną.",
         "users": "Zarządzanie użytkonikami.",

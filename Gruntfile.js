@@ -146,7 +146,7 @@ module.exports = function (grunt) {
                 dot: true,
                 src: '**',
                 cwd: 'build/tmp',
-                dest: 'build/EspoCRM-<%= pkg.version %>/',
+                dest: 'build/AppsZure-<%= pkg.version %>/',
             },
         },
         chmod: {
@@ -158,15 +158,15 @@ module.exports = function (grunt) {
                     mode: '644'
                 },
                 src: [
-                    'build/EspoCRM-<%= pkg.version %>/**/*.php',
-                    'build/EspoCRM-<%= pkg.version %>/**/*.json',
-                    'build/EspoCRM-<%= pkg.version %>/**/*.config',
-                    'build/EspoCRM-<%= pkg.version %>/**/.htaccess',
-                    'build/EspoCRM-<%= pkg.version %>/client/**/*.js',
-                    'build/EspoCRM-<%= pkg.version %>/client/**/*.css',
-                    'build/EspoCRM-<%= pkg.version %>/client/**/*.tpl',
-                    'build/EspoCRM-<%= pkg.version %>/**/*.html',
-                    'build/EspoCRM-<%= pkg.version %>/**/*.txt',
+                    'build/AppsZure-<%= pkg.version %>/**/*.php',
+                    'build/AppsZure-<%= pkg.version %>/**/*.json',
+                    'build/AppsZure-<%= pkg.version %>/**/*.config',
+                    'build/AppsZure-<%= pkg.version %>/**/.htaccess',
+                    'build/AppsZure-<%= pkg.version %>/client/**/*.js',
+                    'build/AppsZure-<%= pkg.version %>/client/**/*.css',
+                    'build/AppsZure-<%= pkg.version %>/client/**/*.tpl',
+                    'build/AppsZure-<%= pkg.version %>/**/*.html',
+                    'build/AppsZure-<%= pkg.version %>/**/*.txt',
                 ]
             }
         },
@@ -207,12 +207,12 @@ module.exports = function (grunt) {
         compress: {
             final: {
                 options: {
-                    archive: 'build/EspoCRM-<%= pkg.version %>.zip',
+                    archive: 'build/AppsZure-<%= pkg.version %>.zip',
                     mode: 'zip'
                 },
                 src: ['**'],
-                cwd: 'build/EspoCRM-<%= pkg.version %>',
-                dest: 'EspoCRM-<%= pkg.version %>'
+                cwd: 'build/AppsZure-<%= pkg.version %>',
+                dest: 'AppsZure-<%= pkg.version %>'
             }
         }
     });

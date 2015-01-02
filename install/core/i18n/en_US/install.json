@@ -1,6 +1,6 @@
 {
 	"labels": {
-		"Main page title": "Welcome to EspoCRM",
+		"Main page title": "Welcome to AppsZure",
 		"Main page header": "",
 		"Start page title": "License Agreement",
 		"Step1 page title": "License Agreement",
@@ -12,9 +12,9 @@
 		"Step5 page title": "SMTP settings for outgoing emails",
 		"Errors page title": "Errors",
 		"Finish page title": "Installation is complete",
-		"Congratulation! Welcome to EspoCRM": "Congratulation! EspoCRM has been successfully installed.",
+		"Congratulation! Welcome to AppsZure": "Congratulation! AppsZure has been successfully installed.",
 		"More Information": "For more information, please visit our {BLOG}, follow us on {TWITTER}.<br><br>If you have any suggestions or questions, please ask on the {FORUM}.",
-		"share": "If you like EspoCRM, share it with your friends. Let them know about this great product.",
+		"share": "If you like AppsZure, share it with your friends. Let them know about this great product.",
 		"blog": "blog",
 		"twitter": "twitter",
 		"forum": "forum",
@@ -28,7 +28,7 @@
 		"Start": "Start",
 		"Back": "Back",
 		"Next": "Next",
-		"Go to EspoCRM": "Go to EspoCRM",
+		"Go to AppsZure": "Go to AppsZure",
 		"Re-check": "Re-check",
 		"Version": "Version",
 		"Test settings": "Test Connection",
@@ -79,8 +79,8 @@
 	"messages": {
 		"Bad init Permission": "Permission denied for \"{*}\" directory. Please set 775 for \"{*}\" or just execute this command in the terminal <pre><b>{C}</b></pre>\n\tOperation not permitted? Try this one: {CSU}",
 		"Some errors occurred!": "Some errors occurred!",
-		"phpVersion": "Your PHP version is not supported by EspoCRM, please update to PHP {minVersion} at least",
-		"MySQLVersion": "Your MySQL version is not supported by EspoCRM, please update to MySQL {minVersion} at least",
+		"phpVersion": "Your PHP version is not supported by AppsZure, please update to PHP {minVersion} at least",
+		"MySQLVersion": "Your MySQL version is not supported by AppsZure, please update to MySQL {minVersion} at least",
 		"The PHP extension was not found...": "PHP Error: Extension <b>{extName}</b> is not found.",
 		"All Settings correct": "All Settings are correct",
 		"Failed to connect to database": "Failed to connect to database",
@@ -107,7 +107,7 @@
 		"1045": "Access denied for user",
 		"extension": "{0} extension is missing",
 		"option": "Recommended value is {0}",
-		"mysqlSettingError": "EspoCRM requires the MySQL setting \"{NAME}\" to be set to {VALUE}"
+		"mysqlSettingError": "AppsZure requires the MySQL setting \"{NAME}\" to be set to {VALUE}"
 	},
 	"options": {
 		"db driver": {
@@ -124,10 +124,10 @@
 			}
 		},
 		"modRewriteHelp": {
-			"apache": "API Error: EspoCRM API unavailable.<br> Possible problems: RewriteBase required, disabled \"mod_rewrite\" in Apache server or .htaccess support.",
-			"nginx": "API Error: EspoCRM API unavailable.<br> Add this code to your Nginx Host Config (inside \"server\" block):<br>\n<pre>\n{0}\n</pre>",
-			"microsoft-iis": "API Error: EspoCRM API unavailable.<br> Possible problem: disabled \"URL Rewrite\". Please check and enable \"URL Rewrite\" Module in IIS server",
-			"default": "API Error: EspoCRM API unavailable.<br> Possible problem: disabled Rewrite Module. Please check and enable Rewrite Module in your server (e.g. mod_rewrite in Apache) and .htaccess support."
+			"apache": "API Error: AppsZure API unavailable.<br> Possible problems: RewriteBase required, disabled \"mod_rewrite\" in Apache server or .htaccess support.",
+			"nginx": "API Error: AppsZure API unavailable.<br> Add this code to your Nginx Host Config (inside \"server\" block):<br>\n<pre>\n{0}\n</pre>",
+			"microsoft-iis": "API Error: AppsZure API unavailable.<br> Possible problem: disabled \"URL Rewrite\". Please check and enable \"URL Rewrite\" Module in IIS server",
+			"default": "API Error: AppsZure API unavailable.<br> Possible problem: disabled Rewrite Module. Please check and enable Rewrite Module in your server (e.g. mod_rewrite in Apache) and .htaccess support."
 		}
 	}
 }

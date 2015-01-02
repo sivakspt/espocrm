@@ -1,23 +1,23 @@
 <?php
 /************************************************************************
- * This file is part of EspoCRM.
+ * This file is part of AppsZure.
  *
- * EspoCRM - Open Source CRM application.
+ * AppsZure - Open Source CRM application.
  * Copyright (C) 2014  Yuri Kuznetsov, Taras Machyshyn, Oleksiy Avramenko
- * Website: http://www.espocrm.com
+ * Website: http://www.AppsZure.com
  *
- * EspoCRM is free software: you can redistribute it and/or modify
+ * AppsZure is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * EspoCRM is distributed in the hope that it will be useful,
+ * AppsZure is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with EspoCRM. If not, see http://www.gnu.org/licenses/.
+ * along with AppsZure. If not, see http://www.gnu.org/licenses/.
  ************************************************************************/
 
 namespace Espo\Core\Upgrades\Actions\Base;
@@ -57,7 +57,7 @@ class Uninstall extends \Espo\Core\Upgrades\Actions\Base
         }
 
         if (!$this->systemRebuild()) {
-            throw new Error('Error occurred while EspoCRM rebuild.');
+            throw new Error('Error occurred while AppsZure rebuild.');
         }
 
         /* run before install script */

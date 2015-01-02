@@ -16,7 +16,7 @@ function PO (espoPath, language) {
 
     this.currentPath = path.dirname(fs.realpathSync(__filename)) + '/';
 
-    this.outputFileName = 'espocrm-' + this.language + '.po';
+    this.outputFileName = 'AppsZure-' + this.language + '.po';
 
     this.path = espoPath;
     if (this.path.substr(-1) != '/') {
@@ -39,7 +39,7 @@ function PO (espoPath, language) {
         '"POT-Creation-Date: \\n"\n' +
         '"PO-Revision-Date: \\n"\n' +
         '"Last-Translator: \\n"\n' +
-        '"Language-Team: EspoCRM <infobox@espocrm.com>\\n"\n' +
+        '"Language-Team: AppsZure <infobox@AppsZure.com>\\n"\n' +
         '"MIME-Version: 1.0\\n"\n' +
         '"Content-Type: text/plain; charset=UTF-8\\n"\n' +
         '"Content-Transfer-Encoding: 8bit\\n"\n' +

@@ -1,7 +1,7 @@
 {
 	"labels": {
-		"Main page title": "Willkommen bei EspoCRM",
-		"Main page header": "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: \nLast-Translator: \nLanguage-Team: EspoCRM <infobox@espocrm.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: de_DE\n",
+		"Main page title": "Willkommen bei AppsZure",
+		"Main page header": "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: \nLast-Translator: \nLanguage-Team: AppsZure <infobox@AppsZure.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: de_DE\n",
 		"Start page title": "Lizenz Vereinbarung",
 		"Step1 page title": "Lizenz Vereinbarung",
 		"License Agreement": "Lizenz Vereinbarung",
@@ -12,9 +12,9 @@
 		"Step5 page title": "SMTP Einstellungen für ausgehende E-Mails",
 		"Errors page title": "Fehler",
 		"Finish page title": "Die Installation ist abgeschlossen",
-		"Congratulation! Welcome to EspoCRM": "Gratulation! EspoCRM wurde erfolgreich installiert.",
+		"Congratulation! Welcome to AppsZure": "Gratulation! AppsZure wurde erfolgreich installiert.",
 		"More Information": "Für mehr Informationen besuchen Sie bitte unseren  {BLOG} und/oder folgen Sie und auf {TWITTER}.<br><br>Für Fragen oder Verbesserungsvorschläge besuchen Sie das {FORUM}.",
-		"share": "Wenn Ihnen  EspoCRM gefällt dann teilen Sie! Erzählen Sie allen wie toll und hilfreich Sie das Produkt finden.",
+		"share": "Wenn Ihnen  AppsZure gefällt dann teilen Sie! Erzählen Sie allen wie toll und hilfreich Sie das Produkt finden.",
 		"blog": "Blog",
 		"twitter": "Twitter",
 		"forum": "Forum",
@@ -28,7 +28,7 @@
 		"Start": "Start",
 		"Back": "Zurück",
 		"Next": "Weiter",
-		"Go to EspoCRM": "Zu EspoCRM",
+		"Go to AppsZure": "Zu AppsZure",
 		"Re-check": "Überprüfung wiederholen",
 		"Version": "Version",
 		"Test settings": "Verbindung überprüfen",
@@ -79,8 +79,8 @@
 	"messages": {
 		"Bad init Permission": "Zugriff für Verzeichnis \"{*}\" verweigert. Bitte setzen Sie 775 für \"{*}\" oder führen Sie dieses Kommando in einem Terminal Fenster aus <pre><b>{C}</b></pre> Operation nicht erlaubt? Versuchen Sie das: {CSU}",
 		"Some errors occurred!": "Es sind Fehler passiert!",
-		"phpVersion": "Ihre PHP Version wird von EspoCRM nicht unterstützt. Bitte aktualisieren Sie zumindest auf {minVersion}",
-		"MySQLVersion": "Ihre MySQL Version wird von EspoCRM nicht unterstützt. Bitte aktualisieren Sie zumindest auf MySQL {minVersion}",
+		"phpVersion": "Ihre PHP Version wird von AppsZure nicht unterstützt. Bitte aktualisieren Sie zumindest auf {minVersion}",
+		"MySQLVersion": "Ihre MySQL Version wird von AppsZure nicht unterstützt. Bitte aktualisieren Sie zumindest auf MySQL {minVersion}",
 		"The PHP extension was not found...": "PHP Fehler: Erweiterung <b>{extName}</b> wurde nicht gefunden...",
 		"All Settings correct": "Alle Einstellungen sind korrekt",
 		"Failed to connect to database": "Konnte nicht zur Datenbank verbinden",
@@ -107,7 +107,7 @@
 		"1045": "Zugriff für Benutzer nicht erlaubt",
 		"extension": "{0} Erweiterung fehlt",
 		"option": "Empfohlener Wert ist {0}",
-		"mysqlSettingError": "EspoCRM erfordert, dass die MySQL Einstellung \"{NAME}\"  auf {VALUE} gesetzt ist"
+		"mysqlSettingError": "AppsZure erfordert, dass die MySQL Einstellung \"{NAME}\"  auf {VALUE} gesetzt ist"
 	},
 	"options": {
 		"db driver": {
@@ -120,14 +120,14 @@
 				"windows": "<br> <pre>1. Finden Sie die httpd.conf Datei (normalerweise in einem Verzeichnis conf, config oder ähnlich)<br>\n2. Innerhalb der httpd.conf Datei aktivieren Sie die Zeile LoadModule rewrite_module modules/mod_rewrite.so (entfernen Sie das # Zeichen vom Anfang der Zeile)<br>\n3. Stellen Sie sicher, dass die Zeile ClearModuleList nicht auskommentiert ist, genauso wie die Zeile AddModule mod_rewrite.c.\n</pre>"
 			},
 			"microsoft-iis": {
-				"windows": "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: \nLast-Translator: \nLanguage-Team: EspoCRM <infobox@espocrm.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: de_DE\n"
+				"windows": "Project-Id-Version: \nPOT-Creation-Date: \nPO-Revision-Date: \nLast-Translator: \nLanguage-Team: AppsZure <infobox@AppsZure.com>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: de_DE\n"
 			}
 		},
 		"modRewriteHelp": {
-			"apache": "API Fehler: EspoCRM API nicht verfügbar<br>Mögliches Problem: RewriteBase erforderlich, deaktiviertes \"mod_rewrite\" des Apache Servers oder des .htaccess Supports.",
-			"nginx": "API Fehler: EspoCRM API nicht verfügbar.<br>Fügen Sie diesen Code zu Nginx Host Config (innerhalb des \"server\" Blocks) hinzu:<br> <pre> {0} </pre>",
-			"microsoft-iis": "API Fehler: EspoCRM API nicht verfügbar<br>Mögliches Problem: deaktiviertes \"URL Rewrite\". Bitte überprüfen und aktivieren Sie das \"URL Rewrite\" Modul im IIS Server.",
-			"default": "API Fehler: EspoCRM API nicht verfügbar<br>Mögliches Problem: deaktiviertes Rewrite Modul. Bitte überprüfen und aktivieren Sie das Rewrite Modul (z.B. mod_rewrite im Apache Server) und die .htaccess Unterstützung."
+			"apache": "API Fehler: AppsZure API nicht verfügbar<br>Mögliches Problem: RewriteBase erforderlich, deaktiviertes \"mod_rewrite\" des Apache Servers oder des .htaccess Supports.",
+			"nginx": "API Fehler: AppsZure API nicht verfügbar.<br>Fügen Sie diesen Code zu Nginx Host Config (innerhalb des \"server\" Blocks) hinzu:<br> <pre> {0} </pre>",
+			"microsoft-iis": "API Fehler: AppsZure API nicht verfügbar<br>Mögliches Problem: deaktiviertes \"URL Rewrite\". Bitte überprüfen und aktivieren Sie das \"URL Rewrite\" Modul im IIS Server.",
+			"default": "API Fehler: AppsZure API nicht verfügbar<br>Mögliches Problem: deaktiviertes Rewrite Modul. Bitte überprüfen und aktivieren Sie das Rewrite Modul (z.B. mod_rewrite im Apache Server) und die .htaccess Unterstützung."
 		}
 	}
 }

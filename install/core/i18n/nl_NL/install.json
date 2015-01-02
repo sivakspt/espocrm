@@ -1,6 +1,6 @@
 {
 	"labels": {
-		"Main page title": "Welkom bij EspoCRM",
+		"Main page title": "Welkom bij AppsZure",
 		"Main page header": "",
 		"Start page title": "Licentie Overeenkomst",
 		"Step1 page title": "Licentie Overeenkomst",
@@ -12,9 +12,9 @@
 		"Step5 page title": "SMTP instellingen voor uitgaande emails",
 		"Errors page title": "Fouten",
 		"Finish page title": "Installatie is compleet",
-		"Congratulation! Welcome to EspoCRM": "Gefeliciteerd EspoCRM is succesvol geinstalleerd.",
+		"Congratulation! Welcome to AppsZure": "Gefeliciteerd AppsZure is succesvol geinstalleerd.",
 		"More Information": "Voor meer informatie, bezoek onze {BLOG}, volg ons op {TWITTER}.<br><br> Vragen of verzoeken kunt u vermelden op het {FORUM}.",
-		"share": "Tevreden over EspoCRM, deel dit dan met je vrienden. Informeer ze over ons product.",
+		"share": "Tevreden over AppsZure, deel dit dan met je vrienden. Informeer ze over ons product.",
 		"blog": "blog",
 		"twitter": "twitter",
 		"forum": "forum",
@@ -28,7 +28,7 @@
 		"Start": "Start",
 		"Back": "Terug",
 		"Next": "Volgende",
-		"Go to EspoCRM": "Ga naar EspoCRM",
+		"Go to AppsZure": "Ga naar AppsZure",
 		"Re-check": "Re-check",
 		"Version": "Versie",
 		"Test settings": "Connectie Testen",
@@ -79,8 +79,8 @@
 	"messages": {
 		"Bad init Permission": "Toestemming geweigerd voor \"{*}\" directory. Stel 775 in voor \"{*}\" of voer deze opdracht uit in Terminal <pre><b>{C}</b></pre>\n\tHandeling niet toegestaan? Probeer deze: {CSU}",
 		"Some errors occurred!": "Er zijn fouten gevonden!",
-		"phpVersion": "Uw PHP versie wordt niet ondersteund door EspoCRM, u moet minimaal updaten naar PHP {minVersion}",
-		"MySQLVersion": "Uw MySQL versie wordt niet ondersteund door EspoCRM, u moet minimaal updaten naar MySQL {minVersion}",
+		"phpVersion": "Uw PHP versie wordt niet ondersteund door AppsZure, u moet minimaal updaten naar PHP {minVersion}",
+		"MySQLVersion": "Uw MySQL versie wordt niet ondersteund door AppsZure, u moet minimaal updaten naar MySQL {minVersion}",
 		"The PHP extension was not found...": "PHP Error: Extension <b>{extName}</b> is not found.",
 		"All Settings correct": "Alle Instellingen zijn juist",
 		"Failed to connect to database": "Kan geen verbinding maken met de database",
@@ -107,7 +107,7 @@
 		"1045": "Geen rechten voor de gebruiker",
 		"extension": "{0} extensie ontbreekt",
 		"option": "Aanbevolen waarde is {0}",
-		"mysqlSettingError": "EspoCRM vraagde MySQL instelling \"{NAME}\" in te stellen op {VALUE}"
+		"mysqlSettingError": "AppsZure vraagde MySQL instelling \"{NAME}\" in te stellen op {VALUE}"
 	},
 	"options": {
 		"db driver": {
@@ -124,10 +124,10 @@
 			}
 		},
 		"modRewriteHelp": {
-			"apache": "API Error: EspoCRM API niet beschikbaar.<br> Mogelijke Oorzaak: RewriteBase vereist, disabled \"mod_rewrite\" in Apache server of .htaccess ondersteuning.",
-			"nginx": "API Error: EspoCRM API unavailable.<br> Add this code to your Nginx Host Config (inside \"server\" block):<br>\n<pre>\n{0}\n</pre>",
-			"microsoft-iis": "API Error: EspoCRM API niet beschikbaar.<br> Mogelijk probleem: disabled \"URL Rewrite\". Controleer en activeer \"URL Rewrite\" Module in IIS server",
-			"default": "API Error: EspoCRM API unavailable.<br> Possible problem: disabled Rewrite Module. Please check and enable Rewrite Module in your server (e.g. mod_rewrite in Apache) and .htaccess support."
+			"apache": "API Error: AppsZure API niet beschikbaar.<br> Mogelijke Oorzaak: RewriteBase vereist, disabled \"mod_rewrite\" in Apache server of .htaccess ondersteuning.",
+			"nginx": "API Error: AppsZure API unavailable.<br> Add this code to your Nginx Host Config (inside \"server\" block):<br>\n<pre>\n{0}\n</pre>",
+			"microsoft-iis": "API Error: AppsZure API niet beschikbaar.<br> Mogelijk probleem: disabled \"URL Rewrite\". Controleer en activeer \"URL Rewrite\" Module in IIS server",
+			"default": "API Error: AppsZure API unavailable.<br> Possible problem: disabled Rewrite Module. Please check and enable Rewrite Module in your server (e.g. mod_rewrite in Apache) and .htaccess support."
 		}
 	}
 }

@@ -163,7 +163,7 @@ class Invitations
             $email = $user->get('emailAddress');
         }
         
-        $ics = new Ics('//EspoCRM//EspoCRM Calendar//EN', array(
+        $ics = new Ics('//AppsZure//AppsZure Calendar//EN', array(
             'startDate' => strtotime($entity->get('dateStart')),
             'endDate' => strtotime($entity->get('dateEnd')),
             'uid' => $entity->id,
